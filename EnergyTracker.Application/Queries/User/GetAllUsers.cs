@@ -1,0 +1,18 @@
+﻿using EnergyTracker.Domain.Interfaces;
+using MediatR;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using EnergyTracker.Domain.Entities;
+using EnergyTracker.Application.DTOs;
+
+namespace EnergyTracker.Application.Queries.User
+{
+    public class GetAllUsers : IRequest<IEnumerable<UserDto>>
+    {
+
+    }
+    
+}

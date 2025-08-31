@@ -1,0 +1,17 @@
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\bin\Debug\net9.0\EnergyTracker.Infrastructure.deps.json
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\bin\Debug\net9.0\EnergyTracker.Infrastructure.runtimeconfig.json
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\bin\Debug\net9.0\EnergyTracker.Infrastructure.dll
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\bin\Debug\net9.0\EnergyTracker.Infrastructure.pdb
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\bin\Debug\net9.0\EnergyTracker.Domain.dll
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\bin\Debug\net9.0\EnergyTracker.Domain.pdb
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTr.F657B6AA.Up2Date
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.dll
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\refint\EnergyTracker.Infrastructure.dll
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.pdb
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\ref\EnergyTracker.Infrastructure.dll

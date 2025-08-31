@@ -1,0 +1,12 @@
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\bin\Debug\net9.0\EnergyTracker.Domain.deps.json
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\bin\Debug\net9.0\EnergyTracker.Domain.dll
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\bin\Debug\net9.0\EnergyTracker.Domain.pdb
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\EnergyTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\EnergyTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\EnergyTracker.Domain.AssemblyInfo.cs
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\EnergyTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\EnergyTracker.Domain.dll
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\refint\EnergyTracker.Domain.dll
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\EnergyTracker.Domain.pdb
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\ref\EnergyTracker.Domain.dll
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\EnergyTracker.Domain.csproj.AssemblyReference.cache
