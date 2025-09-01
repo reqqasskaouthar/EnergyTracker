@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hj6fpijHSLw=",
+  "dgSpecHash": "YLAoWdVlvGE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaouthar\\Desktop\\EnergyTracker\\EnergyTracker.Domain\\EnergyTracker.Domain.csproj",
+  "projectFilePath": "C:\\Users\\kaouthar\\Desktop\\EnergyTracker_Back\\EnergyTracker\\EnergyTracker.Domain\\EnergyTracker.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaouthar\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
     "C:\\Users\\kaouthar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
