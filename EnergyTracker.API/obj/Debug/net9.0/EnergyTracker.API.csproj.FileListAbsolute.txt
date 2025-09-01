@@ -183,3 +183,4 @@ C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.API\bin\Debug\net9.0\Excel
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.API\bin\Debug\net9.0\RBush.dll
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.API\bin\Debug\net9.0\SixLabors.Fonts.dll
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.API\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.API\obj\Debug\net9.0\EnergyTracker.API.sourcelink.json

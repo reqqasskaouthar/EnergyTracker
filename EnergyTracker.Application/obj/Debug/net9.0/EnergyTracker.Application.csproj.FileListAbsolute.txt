@@ -17,3 +17,4 @@ C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Application\obj\Debug\net9
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Application\obj\Debug\net9.0\ref\EnergyTracker.Application.dll
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Application\bin\Debug\net9.0\EnergyTracker.Infrastructure.dll
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Application\bin\Debug\net9.0\EnergyTracker.Infrastructure.pdb
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Application\obj\Debug\net9.0\EnergyTracker.Application.sourcelink.json
