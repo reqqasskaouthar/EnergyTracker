@@ -12,7 +12,6 @@ namespace EnergyTracker.Infrastructure.EventHandlers
     {
         public Task Handle(UserCreatedEvent notification, CancellationToken cancellationToken)
         {
-            // Par exemple : log, envoyer un email, ou autre action
             Console.WriteLine($"Nouvel utilisateur créé avec Email = {notification.Email}");
 
             return Task.CompletedTask;

@@ -1,5 +1,6 @@
 ﻿using EnergyTracker.Application.Commands.User;
 using EnergyTracker.Domain.Interfaces;
+using EnergyTracker.Infrastructure.Repositories;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -31,6 +32,10 @@ namespace EnergyTracker.Application.Commands.Consumption
             await _repository.AddAsync(consumption);
 
             return consumption.ConsumptionId;
+        }
+        public async Task<IEnumerable<EnergyTracker.Domain.Entities.Consumption>> GetByUserId(Guid userId)
+        {
+            return await _repository.GetByUserIdAsync(userId);
         }
     }
 }

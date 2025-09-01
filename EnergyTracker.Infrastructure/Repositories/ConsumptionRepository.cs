@@ -53,5 +53,12 @@ namespace EnergyTracker.Infrastructure.Repositories
                                  .Include(c => c.User)              
                                  .FirstOrDefaultAsync(c => c.ConsumptionId == id);
         }
+
+        public async Task<IEnumerable<Consumption>> GetByUserIdAsync(Guid userId)
+        {
+            return await _context.Consumptions
+                .Where(c => c.UserId == userId)
+                .ToListAsync();
+        }
     }
 }

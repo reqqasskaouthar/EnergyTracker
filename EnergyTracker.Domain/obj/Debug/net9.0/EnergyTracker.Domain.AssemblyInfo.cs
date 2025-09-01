@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnergyTracker.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b076c803f17333e41e783c7d419b03a0b7d62c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55f05fff97be840fc89b71f3218a9fef978231b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnergyTracker.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnergyTracker.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

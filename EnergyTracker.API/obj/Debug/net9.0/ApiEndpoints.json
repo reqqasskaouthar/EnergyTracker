@@ -89,6 +89,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "EnergyTracker.API.Controllers.ConsumptionController",
+    "Method": "GetByUserId",
+    "RelativePath": "api/Consumption/user/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EnergyTracker.API.Controllers.SubscriptionController",
     "Method": "Create",
     "RelativePath": "api/Subscription",

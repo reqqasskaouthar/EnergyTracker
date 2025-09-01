@@ -15,3 +15,4 @@ C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\n
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.pdb
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.genruntimeconfig.cache
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\ref\EnergyTracker.Infrastructure.dll
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Infrastructure\obj\Debug\net9.0\EnergyTracker.Infrastructure.sourcelink.json

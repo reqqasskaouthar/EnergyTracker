@@ -38,11 +38,11 @@ namespace EnergyTracker.API.Controllers
             {
                 var command = new DeleteUser(id);
                 await _mediator.Send(command);
-                return NoContent(); // 204 No Content
+                return NoContent();
             }
             catch (NotFoundException)
             {
-                return NotFound(); // 404 si utilisateur non trouvé
+                return NotFound();
             }
         }
         [HttpPut("{id}")]
@@ -55,7 +55,7 @@ namespace EnergyTracker.API.Controllers
             try
             {
                 await _mediator.Send(command);
-                return NoContent(); // 204 = update OK sans contenu à renvoyer
+                return NoContent();
             }
             catch (NotFoundException)
             {

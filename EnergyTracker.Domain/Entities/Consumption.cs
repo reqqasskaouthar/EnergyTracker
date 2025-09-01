@@ -16,14 +16,11 @@ namespace EnergyTracker.Domain.Entities
         public string Unit { get; set; }
         public User User { get; set; }
 
-        // Constructeur sans paramètre requis par EF Core
         public Consumption()
         {
             ConsumptionId = Guid.NewGuid();
             Date = DateTime.UtcNow;
         }
-
-        // Constructeur paramétré pour usage métier (optionnel)
         public Consumption(Guid userId, string energyType, decimal quantity, string unit, DateTime date)
         {
             ConsumptionId = Guid.NewGuid();

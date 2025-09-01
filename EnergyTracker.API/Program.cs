@@ -42,7 +42,7 @@ builder.Services.AddMediatR(cfg =>
     cfg.RegisterServicesFromAssembly(typeof(CreateUserHandler).Assembly));
 
 // Repositories
-//builder.Services.AddScoped<IExcelImporter, ExcelImporter>();
+
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IConsumptionRepository, ConsumptionRepository>();
 builder.Services.AddScoped<ISubscriptionRepository,SubscriptionRepository>();

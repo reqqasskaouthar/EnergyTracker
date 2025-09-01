@@ -10,3 +10,4 @@ C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\re
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\EnergyTracker.Domain.pdb
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\ref\EnergyTracker.Domain.dll
 C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\EnergyTracker.Domain.csproj.AssemblyReference.cache
+C:\Users\kaouthar\Desktop\EnergyTracker\EnergyTracker.Domain\obj\Debug\net9.0\EnergyTracker.Domain.sourcelink.json

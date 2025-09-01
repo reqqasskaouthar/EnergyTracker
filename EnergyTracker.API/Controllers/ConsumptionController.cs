@@ -84,6 +84,17 @@ namespace EnergyTracker.API.Controllers
             var fileContent = await _mediator.Send(new ExportConsumptions());
             return File(fileContent, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "Consumptions.xlsx");
         }
+        [HttpGet("user/{userId}")]
+        public async Task<IActionResult> GetByUserId(Guid userId)
+        {
+            var consumptions = await _mediator.Send(new GetConsumptionsByUserId(userId));
+
+            if (consumptions == null || !consumptions.Any())
+                return NotFound($"Aucune consommation trouvée pour l'utilisateur {userId}");
+
+            return Ok(consumptions);
+        }
+
     }
 
 }

@@ -14,5 +14,7 @@ namespace EnergyTracker.Domain.Interfaces
         Task UpdateAsync(Consumption Consumption);
         Task<Consumption?> GetByIdAsync(Guid id);
         Task DeleteAsync(Guid id);
+        Task<IEnumerable<Consumption>> GetByUserIdAsync(Guid userId);
+
     }
 }
