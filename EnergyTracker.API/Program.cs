@@ -9,7 +9,9 @@ using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
+using QuestPDF.Infrastructure;
 using System.Reflection;
+
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -49,7 +51,7 @@ builder.Services.AddScoped<ISubscriptionRepository,SubscriptionRepository>();
 builder.Services.AddScoped<IExcelExporter, ExcelExporter>();
 builder.Services.AddScoped<IExcelExporterConsumption, ExcelExporterConsumption>();
 
-
+QuestPDF.Settings.License = LicenseType.Community;
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

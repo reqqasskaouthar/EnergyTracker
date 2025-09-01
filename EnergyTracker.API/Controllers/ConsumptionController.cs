@@ -94,6 +94,16 @@ namespace EnergyTracker.API.Controllers
 
             return Ok(consumptions);
         }
+        [HttpGet("export/pdf/user/{userId}")]
+        public async Task<IActionResult> ExportUserConsumptionsToPdf(Guid userId)
+        {
+            var file = await _mediator.Send(new ExportUserConsumptionsToPdf(userId));
+
+            var fileName = $"consommations_{userId}.pdf";
+
+            return File(file, "application/pdf", fileName);
+        }
+
 
     }
 

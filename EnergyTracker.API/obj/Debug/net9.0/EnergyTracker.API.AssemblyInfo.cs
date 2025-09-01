@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnergyTracker.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55f05fff97be840fc89b71f3218a9fef978231b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4542fced955c4bfdfe5e82d784dfda47ecb8ae8")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnergyTracker.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnergyTracker.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
